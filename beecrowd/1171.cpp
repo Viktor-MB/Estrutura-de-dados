@@ -21,7 +21,7 @@ int main(){
     }
 
     for(int numero : numeros){
-        cout << numero << endl:
+        cout << numero << endl;
     }
 
     return 0;
